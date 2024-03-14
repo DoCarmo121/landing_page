@@ -231,7 +231,7 @@ body{
   }
 
   .navbar a:hover{
-    transform: scale(1.9);
+    transform: scale(1.5);
   }
 
   .item2 p:hover{
